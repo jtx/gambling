@@ -1,3 +1,19 @@
+# Code test repo for your reading enjoyment
+
+I'm using PHP 8.2, Laravel 10, Vite, Vue.js, Tailwind CSS and Intertia for Laravel
+
+In order to get all of this running, you need to install.... A lot of stuff. For my local testing, 
+php-fpm is running on port 9000, with nginx handing the requests.  Vite is also running via
+"npx vite --host=0.0.0.0".
+
+Getting this to run on your machine probably would be a bit of an undertaking, I did not make any Docker 
+files for this, unfortunately.
+
+## Here's a screen shot:
+[![Screen Shot](./gambling_screenshot.png 'Screen Shot')]
+
+---
+
 # dev-codetest
 Gambling.com Group Dev Code Test
 
